@@ -1,4 +1,4 @@
-# Springboard-Capston-House-Price: build regression models to leverage attributes of properties to predict sales prices
+# Springboard Capston: House Price - Build regression models to leverage attributes of properties to predict sales prices
 
 Contains all relevant files on Ames House Dataset with 79 attributes and sales prices for Springboard Capstone 2
 
