@@ -15,7 +15,8 @@ How much are the residential homes in Ames, Iowa given all aspects/attributes of
 3.	Provide insightful tool for setting more reasonable prices when selling/buying properties.
 
 ## 3. Data
-Ames House Dataset (Kaggle Dataset) with 79 attributes and sales prices of 1,460 properties. Features examples:
+Ames House Dataset [Kaggle Dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data) with 79 attributes and sales prices of 1,460 properties. 
+Features examples:
 •	Exterior features: Exterior material quality, type of foundation, masonry veneer type
 •	Interior features: heat condition, central air conditioning, kitchen quality
 •	Location feature: Zoning classification, slope of property, physical location within city limits
